@@ -4,21 +4,272 @@ title: Calendar
 uid: 5a06a25d-857b-7a9a-7cf8-53cf2307dd18
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part One: Theories of Violence and the Problem of Rationality**{{< /td-colspan >}} |||
-| 1 |  {{< br >}}{{< br >}} Course Introduction {{< br >}}{{< br >}} Screenings: {{< br >}}{{< br >}} [_Doing Anthropology: Thoughts on Fieldwork From Three Research Sites_](http://video.mit.edu/watch/doing-anthropology-2651/) {{< br >}}{{< br >}} [_The Story of Human Rights_](http://www.youthforhumanrights.org/what-are-human-rights.html) {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Theoretical Foundations: Crowds, Ritual, or Demonic Males? | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Understanding the Unthinkable: The Holocaust {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | Reflection paper 1 due |
-| {{< td-colspan 3 >}}**Part Two: Human Rights, Rationality, and Relativism Post WWII**{{< /td-colspan >}} |||
-| 4 |  {{< br >}}{{< br >}} Rights Talk in Western Culture: Whose Rights, Whose Rationality? {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Universalism versus Cultural Relativism {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Part Three: The Practice of Human Rights**{{< /td-colspan >}} |||
-| 6 |  {{< br >}}{{< br >}} The Birth of Amnesty International {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | Short mid-term paper due |
-| 7 |  {{< br >}}{{< br >}} Sex and Gender Violence in Ireland {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Argentina {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | Short mid-term papers returned with comments |
-| 9 |  {{< br >}}{{< br >}} Rwanda {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Palestine  {{< br >}}_Guest speaker:_ [_Sa'ed Adel Atshan_](http://watson.brown.edu/news/explore/2014/atshan)_, Postdoctoral Fellow in International Studies, the Watson Institute at Brown University_ {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | Reflection paper 2 due |
-| 11 |  {{< br >}}{{< br >}} South Africa {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Haiti, Part 1 {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} Haiti, Part 2 and Course Conclusion {{< br >}}{{< br >}} Student presentation {{< br >}}{{< br >}}  | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part One: Theories of Violence and the Problem of Rationality**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Introduction
+
+Screenings:
+
+[_Doing Anthropology: Thoughts on Fieldwork From Three Research Sites_](http://video.mit.edu/watch/doing-anthropology-2651/)
+
+[_The Story of Human Rights_](http://www.youthforhumanrights.org/what-are-human-rights.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Theoretical Foundations: Crowds, Ritual, or Demonic Males?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Understanding the Unthinkable: The Holocaust
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part Two: Human Rights, Rationality, and Relativism Post WWII**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rights Talk in Western Culture: Whose Rights, Whose Rationality?
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Universalism versus Cultural Relativism
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part Three: The Practice of Human Rights**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Birth of Amnesty International
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Short mid-term paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sex and Gender Violence in Ireland
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Argentina
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Short mid-term papers returned with comments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rwanda
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Palestine  
+_Guest speaker:_ [_Sa'ed Adel Atshan_](http://watson.brown.edu/news/explore/2014/atshan)_, Postdoctoral Fellow in International Studies, the Watson Institute at Brown University_
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+South Africa
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Haiti, Part 1
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Haiti, Part 2 and Course Conclusion
+
+Student presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
