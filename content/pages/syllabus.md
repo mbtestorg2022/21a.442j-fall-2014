@@ -104,6 +104,6 @@ Final paper
 Statement on Academic Integrity
 -------------------------------
 
-In this class you are to present your own original ideas, and oral and written work that has been completed without collaboration with others. Be sure to cite ideas that are derived from other sources accurately. If you have questions about how to cite sources properly, please consult ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) or the instructor.
+In this class you are to present your own original ideas, and oral and written work that has been completed without collaboration with others. Be sure to cite ideas that are derived from other sources accurately. If you have questions about how to cite sources properly, please consult [Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) or the instructor.
 
 There is no final exam.
